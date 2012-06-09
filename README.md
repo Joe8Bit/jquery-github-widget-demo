@@ -1,0 +1,1 @@
+This is a demo for the jQuery Github Widget, located [here](https://github.com/JoePettersson/jquery-github-widget). Feel free to use it, the content is licensed under the MIT license.
