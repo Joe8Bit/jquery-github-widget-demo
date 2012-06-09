@@ -13,7 +13,7 @@ html[xmlns] .clear { display: block;}
 * html .clear { height: 1%;}
 
 #github #header #logo a, #github #repos .fork {
-	background-image: url("github-sprite.png");
+	background-image: url("../images/github-sprite.png");
 	background-repeat: no-repeat;
 }
 /*Header*/
